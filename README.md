@@ -4,7 +4,7 @@ we construct a meme offensiveness detection dataset, MetaOff-Meme, with metaphor
 
 The dataset labels are in the file `data/data.json` directory.
 
-For the image dataset, please click [here](https://www.kaggle.com/datasets/mzyyyy0/metaoff-meme/data).
+For the image dataset, please click [here](https://www.kaggle.com/datasets/mzyyyy0/metaoff-meme).
 
 🚨***Disclaimer: The examples provided in this article may be disturbing.***
 
