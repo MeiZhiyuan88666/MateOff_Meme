@@ -17,8 +17,11 @@ We believe that the benefits of the provided resources outweigh the associated r
 ### (1): Offensiveness Annotation:
 
 > > 1.Offensiveness:	non-offensive(0);	offensive(1)
+> >
 > > 2.Offensive Type:	Hate(0);	Misogyny(1);	Sarcasm(2);	General Offensiveness(3)
+> >
 > > 3.Offensive Level:	Not(0);	Slightly(1);	Moderately(2);	Very(3)	
+> >
 > > 4.Offensive Scope:	Individual(0);	Group(1)
 
 ### (2):Metaphor Annotation: 
