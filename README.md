@@ -12,7 +12,7 @@ For the image dataset, please click [here](https://drive.google.com/file/d/1A7Nu
 
 We believe that the benefits of the provided resources outweigh the associated risks and that their use can contribute meaningfully to scientific advancements.  All resources are intended solely for scientific research purposes and are strictly prohibited from commercial use.  Users are expected to adhere to ethical guidelines and applicable regulations when utilizing the dataset.
 
-## 🌟Introduction to Met-meme：
+## 🌟Introduction to MetaOff-Meme：
 
 ### (1): Offensiveness Annotation:
 
