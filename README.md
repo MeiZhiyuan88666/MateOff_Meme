@@ -4,7 +4,9 @@ we construct a meme offensiveness detection dataset, MetaOff-Meme, with metaphor
 
 The dataset labels are in the file `data/data.json` directory.
 
-For the image dataset, please click [here](https://drive.google.com/file/d/1A7NuD1reRULVzVHOF5hryGXxr54jJvUK/view?usp=sharing).
+The appendix of the paper is located in `paper/MetaOff_Appendix.pdf`.
+
+For the image dataset, please click [here](https://drive.google.com/file/d/1R4pAiawNSOJnPBPe9_BSnJJlWc1O_gy2/view?usp=sharing).
 
 🚨***Disclaimer: The examples provided in this article may be disturbing.***
 
@@ -12,13 +14,13 @@ For the image dataset, please click [here](https://drive.google.com/file/d/1A7Nu
 
 We believe that the benefits of the provided resources outweigh the associated risks and that their use can contribute meaningfully to scientific advancements.  All resources are intended solely for scientific research purposes and are strictly prohibited from commercial use.  Users are expected to adhere to ethical guidelines and applicable regulations when utilizing the dataset.
 
-## 🌟Introduction to MetaOff-Meme：
+## 🌟Introduction to Met-meme：
 
 ### (1): Offensiveness Annotation:
 
 > > 1.Offensiveness:	non-offensive(0);	offensive(1)
 > >
-> > 2.Offensive Type:	Hate(0);	Misogyny(1);	Sarcasm(2);	General Offensiveness(3)
+> > 2.Offensive Topic:	Group(0);	Gender(1);	Political(2);	Individual(3);	Other(4)
 > >
 > > 3.Offensive Level:	Not(0);	Slightly(1);	Moderately(2);	Very(3)	
 > >
