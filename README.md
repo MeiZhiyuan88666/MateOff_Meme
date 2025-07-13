@@ -1,5 +1,10 @@
 # 🌈MetaOff-Meme: A Metaphor-Enriched Benchmark for Meme Offensiveness Detection
 
+<div align="center">
+<a href="https://meizhiyuan88666.github.io/MetaOff-Meme.github.io/" target="_blank">
+  <img alt="Website" src="https://img.shields.io/badge/🌎_Website-MetaOff--Meme-blue.svg" height="25" />
+</a>
+
 we construct a meme offensiveness detection dataset, MetaOff-Meme, with metaphorical annotations, providing valuable resources for advancing research in this field.
 
 The dataset labels are in the file `data/data.json` directory.
