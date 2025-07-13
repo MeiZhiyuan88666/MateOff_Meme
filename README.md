@@ -5,9 +5,7 @@
       <img alt="Website" src="https://img.shields.io/badge/🌎_Website-MetaOff--Meme-blue.svg" height="25" />
     </a>
 </div>
-
-
-
+​    
 
 
 we construct a meme offensiveness detection dataset, MetaOff-Meme, with metaphorical annotations, providing valuable resources for advancing research in this field.
