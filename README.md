@@ -8,6 +8,8 @@
 
 
 
+
+
 we construct a meme offensiveness detection dataset, MetaOff-Meme, with metaphorical annotations, providing valuable resources for advancing research in this field.
 
 The dataset labels are in the file `data/data.json` directory.
