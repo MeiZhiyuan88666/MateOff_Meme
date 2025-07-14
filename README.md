@@ -12,13 +12,13 @@
         </span>
     </h1>
     <a href="https://meizhiyuan88666.github.io/MetaOff-Meme.github.io/" target="_blank">
-      <img alt="Website" src="https://img.shields.io/badge/🌎_Website-MetaOff--Meme-blue.svg" height="25" />
+      <img alt="Website" src="https://img.shields.io/badge/🌎Website-MetaOff-Meme-blue.svg" height="25"/>
     </a>
     <a>
-        <img src="https://img.shields.io/github/stars/MeiZhiyuan88666/MateOff_Meme?style=flat&logo=github" alt="GitHub stars"/>
+        <img src="https://img.shields.io/github/stars/MeiZhiyuan88666/MateOff_Meme?style=flat&logo=github" alt="GitHub stars" height="25"/>
     </a>
     <a>
-        <img src="https://img.shields.io/github/forks/MeiZhiyuan88666/MateOff_Meme?style=flat&logo=github" alt="GitHub forks"/>
+        <img src="https://img.shields.io/github/forks/MeiZhiyuan88666/MateOff_Meme?style=flat&logo=github" alt="GitHub forks" height="25"/>
     </a>
 
 
