@@ -34,7 +34,9 @@ We believe that the benefits of the provided resources outweigh the associated r
 
 ## 🌟Introduction to MetaOff-meme
 
-<img src="./assets/F2.png" style="width: 85%; height: auto">
+<p align="center">
+  <img src="./assets/F2.png" style="width: 85%; height: auto">
+</p>
 
 ### (1): Offensiveness Annotation:
 
