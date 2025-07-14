@@ -11,11 +11,7 @@
     </a>
     <a>
         <img src="https://img.shields.io/github/forks/MeiZhiyuan88666/MateOff_Meme?style=flat&logo=github" alt="GitHub forks" height="25"/>
-    </a>
-
-
-
-</div><br>
+    </a></div><br>
 
 
 we construct a meme offensiveness detection dataset, MetaOff-Meme, with metaphorical annotations, providing valuable resources for advancing research in this field.
@@ -35,7 +31,7 @@ We believe that the benefits of the provided resources outweigh the associated r
 ## 🌟Introduction to MetaOff-meme
 
 <p align="center">
-  <img src="./assets/F2.png" style="width: 85%; height: auto">
+  <img src="./assets/F2.png" style="width: 90%; height: auto">
 </p>
 
 ### (1): Offensiveness Annotation:
