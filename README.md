@@ -1,10 +1,30 @@
 # 🌈MetaOff-Meme: A Metaphor-Enriched Benchmark for Meme Offensiveness Detection
 
 <div align="center">
+    <h1 align="center">
+        <img src="assets/logo.png" alt="Logo" width="70" style="vertical-align: middle; margin-right: 10px;">
+        MetaOff-Meme: A Metaphor-Enriched Benchmark for Meme Offensiveness Detection
+    </h1>
+    <h1 style="display: flex; align-items: center;">
+        <img src="assets/logo.png" alt="logo" style="height: 100px; margin-right: 5px; margin-top: 5px;">
+        <span style="margin-left: 0px;">
+            MetaOff-Meme: A Metaphor-Enriched Benchmark for Meme Offensiveness Detection
+        </span>
+    </h1>
     <a href="https://meizhiyuan88666.github.io/MetaOff-Meme.github.io/" target="_blank">
       <img alt="Website" src="https://img.shields.io/badge/🌎_Website-MetaOff--Meme-blue.svg" height="25" />
     </a>
+    <a>
+        <img src="https://img.shields.io/github/stars/MeiZhiyuan88666/MateOff_Meme?style=flat&logo=github" alt="GitHub stars"/>
+    </a>
+    <a>
+        <img src="https://img.shields.io/github/forks/MeiZhiyuan88666/MateOff_Meme?style=flat&logo=github" alt="GitHub forks"/>
+    </a>
+
+
+
 </div><br>
+
 
 we construct a meme offensiveness detection dataset, MetaOff-Meme, with metaphorical annotations, providing valuable resources for advancing research in this field.
 
@@ -44,3 +64,7 @@ We believe that the benefits of the provided resources outweigh the associated r
 > >
 > > **Note that some metaphoric relationships in memes may have two instances. Therefore, we add subscripts _1 and _2 to different metaphors to distinguish their corresponding relationships.**
 
+## 📄 License
+
+![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg) ![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg) **Usage and License Notices**: The data and code are intended and licensed for research use only.
+License: Attribution-NonCommercial 4.0 International It should abide by the policy of OpenAI: https://openai.com/policies/terms-of-use
