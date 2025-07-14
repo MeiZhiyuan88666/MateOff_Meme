@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center">
-        <img src="./assets/logo.png" alt="logo" height="20" style="vertical-align: middle; margin-right: 10px;" />
+        <img src="./assets/logo.png" alt="logo" height="30" style="vertical-align: middle; margin-right: 10px;" />
         <b><em>MetaOff-Meme: A Metaphor-Enriched Benchmark for Meme Offensiveness Detection</em></b>
     </h1>
     <a href="https://meizhiyuan88666.github.io/MetaOff-Meme.github.io/" target="_blank">
