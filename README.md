@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center">
-        <img src="./assets/logo.png" alt="logo" height="30" style="vertical-align: middle; margin-right: 10px;" />
+        <img src="./assets/logo.png" alt="logo" height="35" style="vertical-align: middle; margin-right: 10px;" />
         <b><em>MetaOff-Meme: A Metaphor-Enriched Benchmark for Meme Offensiveness Detection</em></b>
     </h1>
     <a href="https://meizhiyuan88666.github.io/MetaOff-Meme.github.io/" target="_blank">
@@ -32,7 +32,9 @@ For the image dataset, please click [here](https://drive.google.com/file/d/1R4pA
 
 We believe that the benefits of the provided resources outweigh the associated risks and that their use can contribute meaningfully to scientific advancements.  All resources are intended solely for scientific research purposes and are strictly prohibited from commercial use.  Users are expected to adhere to ethical guidelines and applicable regulations when utilizing the dataset.
 
-## 🌟Introduction to MetaOff-meme：
+## 🌟Introduction to MetaOff-meme
+
+<img src="./assets/F2.png" style="width: 85%; height: auto">
 
 ### (1): Offensiveness Annotation:
 
