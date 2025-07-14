@@ -24,10 +24,6 @@ For the image dataset, please click [here](https://drive.google.com/file/d/1R4pA
 
 🚨***Disclaimer: The examples provided in this article may be disturbing.***
 
-## ❗Ethics Statement
-
-We believe that the benefits of the provided resources outweigh the associated risks and that their use can contribute meaningfully to scientific advancements.  All resources are intended solely for scientific research purposes and are strictly prohibited from commercial use.  Users are expected to adhere to ethical guidelines and applicable regulations when utilizing the dataset.
-
 ## 🌟Introduction to MetaOff-meme
 
 <p align="center">
@@ -55,6 +51,10 @@ We believe that the benefits of the provided resources outweigh the associated r
 > > 4.metaphor overall explanation
 > >
 > > **Note that some metaphoric relationships in memes may have two instances. Therefore, we add subscripts _1 and _2 to different metaphors to distinguish their corresponding relationships.**
+
+## ❗Ethics Statement
+
+We believe that the benefits of the provided resources outweigh the associated risks and that their use can contribute meaningfully to scientific advancements.  All resources are intended solely for scientific research purposes and are strictly prohibited from commercial use.  Users are expected to adhere to ethical guidelines and applicable regulations when utilizing the dataset.
 
 ## 📄 License
 
