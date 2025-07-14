@@ -3,7 +3,7 @@
 <div align="center">
     <h1 align="center">
         <img src="assets/logo.png" alt="Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
-        MetaOff-Meme: A Metaphor-Enriched Benchmark for Meme Offensiveness Detection
+        🌈MetaOff-Meme: A Metaphor-Enriched Benchmark for Meme Offensiveness Detection
     </h1>
     <a href="https://meizhiyuan88666.github.io/MetaOff-Meme.github.io/" target="_blank">
         <img alt="Website" src="https://img.shields.io/badge/🌎Website-MetaOff--Meme-blue.svg" height="25"/>
