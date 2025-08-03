@@ -18,8 +18,6 @@ we construct a meme offensiveness detection dataset, MetaOff-Meme, with metaphor
 
 The dataset labels are in the file `data/data.json` directory.
 
-The appendix of the paper is located in `paper/MetaOff_Appendix.pdf`.
-
 For the image dataset, please click [here](https://drive.google.com/file/d/1R4pAiawNSOJnPBPe9_BSnJJlWc1O_gy2/view?usp=sharing).
 
 🚨***Disclaimer: The examples provided in this article may be disturbing.***
