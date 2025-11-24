@@ -3,18 +3,7 @@
         <img src="./assets/logo.png" alt="logo" height="35" style="vertical-align: middle; margin-right: 10px;" />
         <b><em>MetaOff-Meme: A Metaphor-Enriched Benchmark for Meme Offensiveness Detection</em></b>
     </h1>
-    <a href="https://meizhiyuan88666.github.io/MetaOff-Meme.github.io/" target="_blank">
-        <img alt="Website" src="https://img.shields.io/badge/🌎Website-MetaOff--Meme-blue.svg" height="25"/>
-    </a>
-    <a>
-        <img src="https://img.shields.io/github/stars/MeiZhiyuan88666/MateOff_Meme?style=flat&logo=github" alt="GitHub stars" height="25"/>
-    </a>
-    <a>
-        <img src="https://img.shields.io/github/forks/MeiZhiyuan88666/MateOff_Meme?style=flat&logo=github" alt="GitHub forks" height="25"/>
-    </a></div><br>
-
-
-we construct a meme offensiveness detection dataset, MetaOff-Meme, with metaphorical annotations, providing valuable resources for advancing research in this field.
+    </a></div><br>we construct a meme offensiveness detection dataset, MetaOff-Meme, with metaphorical annotations, providing valuable resources for advancing research in this field.
 
 The dataset labels are in the file `data/data.json` directory.
 
@@ -53,8 +42,3 @@ For the image dataset, please click [here](https://drive.google.com/file/d/1R4pA
 ## ❗Ethics Statement
 
 We believe that the benefits of the provided resources outweigh the associated risks and that their use can contribute meaningfully to scientific advancements.  All resources are intended solely for scientific research purposes and are strictly prohibited from commercial use.  Users are expected to adhere to ethical guidelines and applicable regulations when utilizing the dataset.
-
-## 📄 License
-
-![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg) ![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg) **Usage and License Notices**: The data and code are intended and licensed for research use only.
-License: Attribution-NonCommercial 4.0 International It should abide by the policy of OpenAI: https://openai.com/policies/terms-of-use
