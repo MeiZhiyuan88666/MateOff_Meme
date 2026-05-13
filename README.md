@@ -12,9 +12,10 @@
     <a>
         <img src="https://img.shields.io/github/forks/MeiZhiyuan88666/MateOff_Meme?style=flat&logo=github" alt="GitHub forks" height="25"/>
     </a>
-    <br><br>
+    <br>
     <h2 align="center"><em>Accepted By Frontiers of Computer Science!</em></h2>
     </a></div><br>we construct a meme offensiveness detection dataset, MetaOff-Meme, with metaphorical annotations, providing valuable resources for advancing research in this field.
+
 
 
 The dataset labels are in the file `data/data.json` directory.
