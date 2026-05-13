@@ -3,7 +3,19 @@
         <img src="./assets/logo.png" alt="logo" height="35" style="vertical-align: middle; margin-right: 10px;" />
         <b><em>MetaOff-Meme: A Metaphor-Enriched Benchmark for Meme Offensiveness Detection</em></b>
     </h1>
+    <a href="https://meizhiyuan88666.github.io/metaoff-meme/" target="_blank"  style="display:inline-block;">
+        <img alt="Website" src="https://img.shields.io/badge/🌎Website-MetaOff--Meme-blue.svg" height="25"/>
+    </a>
+    <a>
+        <img src="https://img.shields.io/github/stars/MeiZhiyuan88666/MateOff_Meme?style=flat&logo=github" alt="GitHub stars" height="25"/>
+    </a>
+    <a>
+        <img src="https://img.shields.io/github/forks/MeiZhiyuan88666/MateOff_Meme?style=flat&logo=github" alt="GitHub forks" height="25"/>
+    </a>
+    <br><br>
+    <h2 align="center"><em>Accepted By Frontiers of Computer Science!</em></h2>
     </a></div><br>we construct a meme offensiveness detection dataset, MetaOff-Meme, with metaphorical annotations, providing valuable resources for advancing research in this field.
+
 
 The dataset labels are in the file `data/data.json` directory.
 
